@@ -1,15 +1,17 @@
-Hey there 
-If you wanna know what i do you need to take a look at my portfolio but if you want to have a better understanding of what am I doing you have to take a look at my bio 
-to make it short:
-  parnian
-  education:master of physics
-  why i am working in data and ai field now?
-  because i believe a crious mind of mine with statitical and logical background can make huge difference in your project, company,...
+Hey there,
 
-arent you interested yet?
-ok lets say i consider social media as the biggest bank of data in future and my biggest question is how to create a model that defines a relationship between people in social media and also in the real life data, like transaction data, transportation data , ....
-now adays with llm based applications there is a new need for data analyst in order to train these applications to have a better and more reliable answers to customers, so here i am to be a friend who enjoys this jpourney with you
+Want to know more about me and my work? Take a look at my portfolio for a comprehensive overview. For a deeper dive into my background and motivations, check out my bio.
 
-  
-  
+In short:
 
+Name: Parnian
+Education: Master of Physics
+Why data and AI?
+
+I'm passionate about leveraging my curious mind and strong statistical and logical background to make a meaningful impact in data-driven projects. I believe my skills can be a valuable asset to your team.
+
+Interested?
+
+Consider social media as a vast, untapped data resource. My current focus is on developing models that can uncover the intricate relationships between people both online and offline. With the rise of LLMs, there's an increasing demand for skilled data analysts to train these models for more accurate and reliable customer interactions.
+
+I'm excited to join you on this journey of discovery.
