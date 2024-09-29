@@ -14,10 +14,6 @@ In addition to my technical skills, I'm also a strong communicator and team play
 * Physics and computer graphics
 
 **Experience**
-
-* **Data Scientist at Mapsa HR** (September 2023 - March 2024)
-    * Developed a predictive algorithm for estimating housing prices in Tehran
-    * Conducted an exploratory data analysis (EDA) project on restaurant reviews in King County
 * **Data Analyst at Freelancer** (January 2023 - September 2023)
     * Developed a physics engine dashboard
     * Held a 3D computer graphic workshop
@@ -33,6 +29,10 @@ In addition to my technical skills, I'm also a strong communicator and team play
     * Developed a predictive model for estimating housing prices in Tehran
     * Used a variety of machine learning algorithms, including linear regression, decision trees, and random forests
     * Achieved an R-squared of 0.85 on the test set
+* **Fraud Detection Project** (Github repository: [[link to repository](https://github.com/parnianmohsnian/Portfolio/tree/parnianmohsnian-fraud-detection-1)])
+    * Developed an EDA with pandas and present it with streamlit
+    * Recognized the pattern and outliers
+    * Use Classification models and evaluate them
 * **Medical Examination Review EDA** (Github repository: [[link to repository](https://github.com/parnianmohsnian/Portfolio/blob/main/medical_examination_EDA.ipynb)])
     * Conducted an exploratory data analysis of restaurant reviews in King County, WA
     * Used web scraping to collect data from Yelp
